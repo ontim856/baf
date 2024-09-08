@@ -1,0 +1,74 @@
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #7fb2fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+
+  .head-text {
+    width: 100%;
+    margin-bottom: 5px;
+    font-size: 15px;
+    text-align: center;
+  }
+
+ .container {
+    padding: 90px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }  
+  
+  input {
+    margin-left:px;
+    width: 45%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  } 
+     
+  .NofG{
+    margin-left:178px;
+  }
+  .address{
+    margin-left: 228px;
+  }
+  .invited{
+    margin-left: 217px;
+  }
+  .relation{
+    margin-left: 112px;
+  }
+  .duration{
+    margin-left:7px;
+  }
+  .applicant{
+    margin-left: 76px;
+  }
+  .visit{
+    margin-left: 224px;
+  }
+  .form-group {
+    margin-bottom: 5px;
+  }
+
+   button {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }  
+
+
